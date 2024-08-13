@@ -5,11 +5,13 @@ import mesop as me
 import mesop.labs as mel
 from datetime import datetime
 from typing import List, Dict, Any
+from dataclasses import dataclass, field  # Import field from dataclasses
 
 @me.stateclass
+@dataclass
 class State:
     sidenav_open: bool = False
-    query_history: List[Dict[str, Any]] = None
+    query_history: List[Dict[str, Any]] = field(default_factory=list)  # Use default_factory for mutable default
 
 def on_click(e: me.ClickEvent):
     s = me.state(State)
@@ -26,10 +28,6 @@ SIDENAV_WIDTH = 200
 )
 def page():
     state = me.state(State)
-    
-    # Initialize query history if not already present
-    if state.query_history is None:
-        state.query_history = []
     
     # Sidebar content
     with me.sidenav(
@@ -62,8 +60,6 @@ def transform(input: str, history: list[mel.ChatMessage]):
     
     # Log query and response with timestamp
     s = me.state(State)
-    if s.query_history is None:
-        s.query_history = []
     s.query_history.append({
         'timestamp': timestamp,
         'input_query': input,

@@ -1,0 +1,465 @@
+{
+    "questions": [
+        {
+            "question1": "What should you do to ensure you know how to safely and efficiently operate your new appliance?",
+            "answer": "You should read the manual thoroughly to ensure that you know how to safely and efficiently operate the extensive features and functions of your new appliance."
+        },
+        {
+            "question2": "Where should you store the manual for future reference?",
+            "answer": "You should store the manual in a safe location close to the appliance for future reference."
+        },
+        {
+            "question3": "For what purpose should you use the appliance according to the manual?",
+            "answer": "You should use the appliance only for its intended purpose as described in the instruction manual."
+        },
+        {
+            "question4": "Do the Warnings and Important Safety Instructions cover all possible conditions and situations?",
+            "answer": "No, the Warnings and Important Safety Instructions in this manual do not cover all possible conditions and situations that may occur."
+        },
+        {
+            "question5": "What is your responsibility when installing, maintaining, and operating the washing machine?",
+            "answer": "It is your responsibility to use common sense, caution, and care when installing, maintaining, and operating your washing machine."
+        },
+        {
+            "question6": "Why might the characteristics of your washing machine differ slightly from those described in the manual?",
+            "answer": "The characteristics of your washing machine may differ slightly from those described in the manual because the following operating instructions cover various models."
+        },
+        {
+            "question7": "What should you do if you have any questions or concerns?",
+            "answer": "If you have any questions or concerns, you should contact your nearest service centre or find help and information online at www.samsung.com"
+        },
+        {
+            "question8": "What does the WARNING symbol indicate in the user manual?",
+            "answer": "The WARNING symbol indicates hazards or unsafe practices that may result in severe personal injury, death, and/or property damage."
+        },
+        {
+            "question9": "What does the CAUTION symbol mean in the user manual?",
+            "answer": "The CAUTION symbol means hazards or unsafe practices that may result in personal injury and/or property damage."
+        },
+        {
+            "question10": "What does the NOTE symbol signify in the user manual?",
+            "answer": " The NOTE symbol indicates that a risk of personal injury or material damage exists."
+        },
+        {
+            "question11": "what should we do if the supply cord is damaged ?",
+            "answer": " it must be replaced by the manufacturer, its service agent or similarly qualified persons in order to avoid a hazard."
+        },
+        {
+            "question12": "how to reduce the risk of fire, electric shock, or injury to persons when using your appliance",
+            "answer": " it must be replaced by the manufacturer, its service agent or similarly qualified persons in order to avoid a hazard."
+        },
+        {
+            "question13": " What is the age requirement for children to use the appliance in Europe? ",
+            "answer": "Children aged 8 years and above can use the appliance under supervision."
+        },
+        {
+            "question14": "What should be done if the supply cord is damaged? ",
+            "answer": "It must be replaced by the manufacturer, its service agent, or similarly qualified persons to avoid a hazard."
+        },
+        {
+            "question15": "What is the recommendation regarding the hose-sets supplied with the appliance?",
+            "answer": "The new hose-sets supplied with the appliance are to be used, and old hose-sets should not be reused."
+        },
+        {
+            "question16": "What is the cautionary advice given for appliances with children in Europe?",
+            "answer": "Children of less than 3 years should be kept away unless continuously supervised."
+        },
+        {
+            "question17": "Who must perform the installation of the appliance?",
+            "answer": "The installation of this appliance must be performed by a qualified technician or service company."
+        },
+        {
+            "question18": "What may result from failure to follow installation warnings?",
+            "answer": "Failure to do so may result in electric shock, fire, an explosion, or problems with the product."
+        },
+        {
+            "question19": "What should you do to avoid electrical hazards when lifting the appliance?",
+            "answer": "Plug the power cord into a wall socket that meets local electrical specifications and do not use an extension cord."
+        },
+        {
+            "question20": "Why should you plug the power plug into the wall socket so the cord is running towards the floor?",
+            "answer": "If you plug the power plug into the socket in the opposite direction, the electric wires within the cable may be damaged and this may result in electric shock or fire."
+        },
+        {
+            "question21": "What precautions should you take with regard to packaging materials?",
+            "answer": "Keep all packaging materials out of the reach of children as these may be dangerous."
+        },
+        {
+            "question22": "What should you do if the appliance is damaged or you suspect damage?",
+            "answer": "Remove all foreign substances such as dust or water from the power plug terminals and contact points using a dry cloth on a regular basis, and unplug the power plug and clean it with a dry cloth."
+        },
+        {
+            "question23": "Why is it important to install the appliance properly?",
+            "answer": "Improper installation may result in electric shock or fire."
+        },
+        {
+            "question24": "What should you avoid doing to prevent electric shock or fire when unplugging the power cord?",
+            "answer": "Do not pull the power cord when unplugging the power plug; hold the power plug by handling the plug."
+        },
+        {
+            "question25": " What should be avoided when positioning the appliance to prevent it from causing harm or damage?",
+            "answer": "Do not ground the appliance to a gas pipe, plastic water pipe, or telephone line as this may result in electric shock, fire, an explosion, or problems with the product."
+        },
+        {
+            "question26": "Why is it important to avoid twisting or damaging the power cord?",
+            "answer": "This may result in electric shock or fire."
+        },
+        {
+            "question27": "What should you do if the appliance power plug or power cord is damaged?",
+            "answer": "Contact your nearest service center"
+        },
+        {
+            "question28": "What should you do with the power cord when positioning heavy objects?",
+            "answer": "Do not place the power cord over an object that is likely to place a heavy object on the power cord."
+        },
+        {
+            "question29": "What are the dangers of installing the appliance in certain locations such as near water or in a dusty location?",
+            "answer": "Do not install this appliance in a location exposed to direct sunlight or water (rain drops), or in a location exposed to high humidity or water (rain drops)."
+        },
+        {
+            "question30": " What should you do if the washing machine is contaminated by a foreign substance?",
+            "answer": "Unplug the power plug and clean the washing machine using a damp, soft cloth"
+        },
+        {
+            "question31": "What are the consequences of not cleaning the washing machine when contaminated by foreign substances?",
+            "answer": "Failure to do so may result in discoloration, deformation, damage, or rust."
+        },
+        {
+            "question32": "What precautions should be taken when using the front glass of the washing machine?",
+            "answer": "Take care when using the washing machine if the front glass is broken by a strong impact as it may result in injury"
+        },
+        {
+            "question33": "How should you handle the water supply hose to prevent damage?",
+            "answer": "Open the water tap slowly after a long period of non-use to prevent high water pressure from damaging a product part or resulting in a water leak."
+        },
+        {
+            "question34": "What should you check if a draining error occurs during operation?",
+            "answer": "Check if there is a draining problem, as using the washing machine when it is flooded due to a draining problem may result in electric shock or fire."
+        },
+        {
+            "question35": "What could happen if laundry gets caught in the door of the washing machine?",
+            "answer": "It may result in damage to the laundry or the washing machine, or result in a water leak."
+        },
+        {
+            "question36": "When should you turn off the water supply valve?",
+            "answer": "Turn off the water supply valve when the washing machine is not being used."
+        },
+        {
+            "question37": "How can you ensure that there is no water leak before using the washing machine?",
+            "answer": "Open the water tap and check if the water supply hose connector is firmly tightened and that there is no water leak before using the product"
+        },
+        {
+            "question38": "What should you not do with the appliance to prevent damage?",
+            "answer": "Do not stand on the appliance or place objects such as laundry, lighted candles, lighted cigarettes, chemicals, metal objects, etc., on the appliance"
+        },
+        {
+            "question39": "What should you avoid spraying onto the washing machine?",
+            "answer": "Do not spray volatile material such as insecticide onto the surface of the appliance as it may result in electric shock, fire, or injury."
+        },
+        {
+            "question40": "What should you avoid placing near the washing machine?",
+            "answer": "Do not place objects that generate electromagnetic fields near the washing machine as it may result in injury due to a malfunction"
+        },
+        {
+            "question41": "What should you not do during a high-temperature wash or drying cycle?",
+            "answer": "Do not touch the water as it may result in burns or injury"
+        },
+        {
+            "question42": "What should you avoid washing in the washing machine?",
+            "answer": "Do not wash thick or hard rugs even if the washing machine mark is on the care label, as this may result in injury or damage to the washing machine, walls, floor, or clothing."
+        },
+        {
+            "question43": "How should you insert the laundry into the washing machine?",
+            "answer": "Insert the laundry into the washing machine completely so that the laundry does not get caught in the door"
+        },
+        {
+            "question44": "What should you ensure about the screws on the water supply hose connector?",
+            "answer": "Ensure that the screws on the water supply hose connector are properly tightened to prevent a water leak."
+        },
+        {
+            "question45": "What is the intended use of the washing machine?",
+            "answer": "The product you have purchased is designed for domestic use only, and using it for business purposes qualifies as a product misuse"
+        },
+        {
+            "question46": "What happens if you use the washing machine for business purposes?",
+            "answer": "The product will not be covered by the standard warranty provided by Samsung and no responsibility can be attributed to Samsung for malfunctions or damages resulting from such misuse"
+        },
+        {
+            "question47": "what are the components of the washer machine?",
+            "answer": "Release lever , Detergent drawer , Control panel , Door , Drum , Pump filter , Emergency drain tube , filter cover , Worktop , Power plug , Drain hose , leveling feet , Spanner , Bolt guide , cold water hose , hot water hose , liquid detergent guide"
+        },
+        {
+            "question48": "What electrical supply and grounding requirements are necessary for the washing machine?",
+            "answer": "The washing machine requires AC 220-240V / 50 Hz fuse or circuit breaker is required. Use an individual branch circuit specific to the washing machine."
+        },
+        {
+            "question49": "What should be done if the provided power plug does not fit the outlet?",
+            "answer": "If the provided plug does not fit the outlet, call a qualified electrician to install a proper outlet."
+        },
+        {
+            "question50": "What are the warnings associated with electrical supply and grounding?",
+            "answer": "Do not use an extension cord.Do not connect the ground wire to plastic pipes, gas lines, or hot water pipes.  Improperly connected grounding conductors may cause electric shock. "
+        },
+        {
+            "question51": " What should the water pressure be for the washing machine?",
+            "answer": "The water pressure should be between 50 kPa and 800 kPa"
+        },
+        {
+            "question52": "What could happen if the water pressure is lower than 50 kPa?",
+            "answer": "If the water pressure is lower than 50 kPa, it may cause the water valve not to close completely, or it may take longer to fill the drum"
+        },
+        {
+            "question53": "How should the water taps be positioned relative to the washing machine?",
+            "answer": "The water taps should be within 120 cm from the rear of the washing machine so that the provided inlet hoses reach the washing machine."
+        },
+        {
+            "question54": "What should be done to reduce the risk of water leaks?",
+            "answer": "Make sure water taps are easily accessible || Turn off the taps when the washing machine is not in use ||Check for any leaks at the water inlet hose fittings on a regular basis"
+        },
+        {
+            "question55": "What should be done before using the washing machine for the first time?",
+            "answer": "Check all connections at the water valve and taps for any leaks"
+        },
+        {
+            "question56": "How far should the water taps be from the rear of the washing machine?",
+            "answer": "The water taps should be within 120 cm from the rear of the washing machine"
+        },
+        {
+            "question57": "What does Samsung recommend for drainage?",
+            "answer": "Samsung recommends a standpipe in height of 60-90 cm. The drain hose must be connected through the hose clip to the standpipe, and the standpipe must fully cover the drain hose"
+        },
+        {
+            "question58": "Where should you not install the washing machine?",
+            "answer": "You should not install the washing machine on a platform or a poorly supported structure, or in areas where water may freeze."
+        },
+        {
+            "question59": "What kind of flooring is best for the washing machine?",
+            "answer": "The washing machine must be installed on a solid floor. Wood floors may need to be reinforced to minimize vibration and/or unbalanced loads. Carpeting and soft tile surfaces are not good resistance to vibrations."
+        },
+        {
+            "question60": "What are the minimum clearance requirements for stable operation of the washing machine?",
+            "answer": "The minimum clearance for stable operation is 25 mm on the sides, 25 mm on the top, 50 mm at the rear, and 550 mm at the front"
+        },
+        {
+            "question61": " What should you ensure if the washing machine and dryer are installed in the same location?",
+            "answer": "Ensure that the front of the washing machine has at least a 550 mm unobstructed air opening if a dryer is installed in the same location"
+        },
+        {
+            "question62": "What are the step by step installations?",
+            "answer": "select a location --> Remove the shipping bolts --> adjust the leveling feet --> connect the water hose --> position the drain hose"
+        },
+        {
+            "question63": "for selecting a location, what are the location requirements?",
+            "answer": "Solid, level surface without carpeting or flooring that may obstruct ventilation || away from direct sunlight || adequate room for ventilation and wiring || the ambitient temperature is always higher than the freezing point || away from a heat source"
+        },
+       
+        {
+            "question65": "How to adjust the leveling feet ?",
+            "answer": "Gently slide the washing machine into position. Excessive force may damage the levelling feet || level the washing machine by manually adjusting the levelling feet || when levelling is complete, tighten the nuts using the spanner "
+        },
+        {
+            "question66": "What is the first step in connecting the water hose?",
+            "answer": "Connect the water hose to the adapter by twisting it tightly in a clockwise direction"
+        },
+        {
+            "question67": "How can you ensure the water hose is securely connected to the adapter?",
+            "answer": "Ensure the hose is tightly connected by turning it clockwise until it is firmly attached"
+        },
+        {
+            "question68": "What tool is suggested to loosen the adapter if it is too tight?",
+            "answer": "Use a tool (like a wrench) to loosen the adapter if it is too tight"
+        },
+        {
+            "question69": "What is the second step after connecting the water hose to the adapter?",
+            "answer": "Install the adapter and turn part (A) in a counter-clockwise direction to fasten it securely."
+        },
+        {
+            "question70": "How should you insert the adapter into the water tap?",
+            "answer": "Insert the adapter into the water tap by turning it clockwise until it is tightly secured"
+        },
+        {
+            "question71": "What should you do while holding down part (B) during the installation?",
+            "answer": "While holding down part (B), connect the adapter to the water tap by turning the adapter in a clockwise direction."
+        },
+        {
+            "question72": "What additional step should you take if using a screw-type water tap?",
+            "answer": "If using a screw-type water tap, insert the screw directly into the water tap and tighten it securely."
+        },
+        {
+            "question73": "Where should the other end of the water hose be connected?",
+            "answer": "Connect the other end of the water hose to the inlet valve of the appliance"
+        },
+        {
+            "question74": "What should you do after connecting the water hose to the inlet valve?",
+            "answer": "Open the water tap and check if there are any leaks from the water hose"
+        },
+        {
+            "question75": "What precaution should be taken if there are leaks in the connection?",
+            "answer": "If there are leaks, turn off the water tap and check the connections to ensure they are tight and secure."
+        },
+        {
+            "question76": "What are the three ways to position the drain hose?",
+            "answer": "Over the edge of a wash basin, inserted into a drain pipe, or into a stand pipe."
+        },
+        {
+            "question77": "At what height should the drain hose be placed over the edge of a wash basin?",
+            "answer": "The drain hose should be placed at a height of between 60 cm and 90 cm from the floor."
+        },
+        {
+            "question78": "How can you secure the drain hose when positioning it over the edge of a wash basin?",
+            "answer": "Secure the guide to the wall using a hook to ensure stable placement."
+        },
+        {
+            "question79": "What is the requirement for the height of the drain pipe when inserted directly into it?",
+            "answer": "The drain pipe must be at a height of at least 60 cm and not higher than 90 cm from the floor."
+        },
+        {
+            "question80": "What are the diameter and capacity requirements for the drain pipe?",
+            "answer": "The drain pipe should have a minimum diameter of 5 cm and a minimum carry-away capacity of 60 liters per minute."
+        },
+        {
+            "question81": "What is the caution mentioned regarding the positioning of the drain hose?",
+            "answer": "Do not put the drain hose in places of stagnant water or ponding, as the water may flow back into the washing machine."
+        },
+        {
+            "question82": "What should you avoid when positioning the drain hose?",
+            "answer": "Avoid placing the drain hose too low or too high, and avoid putting it in stagnant water."
+        },
+        {
+            "question83": "What is the final step before turning on the washing machine?",
+            "answer": "Plug the power cord into a wall socket featuring an AC 220-240V / 50 Hz approved electrical outlet protected by a fuse or circuit breaker, then press Power to turn on the washing machine."
+        },
+        {
+            "question84": "What is the recommended height range for positioning the drain hose in any method?",
+            "answer": "The recommended height range for positioning the drain hose is between 60 cm and 90 cm from the floor"
+        },
+        {
+            "question85": "Why is calibration recommended for the washing machine?",
+            "answer": "Calibration ensures accurate weight detection by the washing machine."
+        },
+        {
+            "question86": "What should be done before running the calibration cycle?",
+            "answer": "Make sure the drum is empty before running Calibration."
+        },
+        {
+            "question87": "What is the first step to enter Calibration mode?",
+            "answer": "Power off, and then power on the washing machine"
+        },
+        {
+            "question88": "Which buttons need to be held down to enter Calibration mode?",
+            "answer": "Hold down the Temp. and Delay End buttons simultaneously for 3 seconds"
+        },
+        {
+            "question89": "What message appears when Calibration mode is activated?",
+            "answer": " The 'Cb' message appears."
+        },
+        {
+            "question90": "How do you start the Calibration cycle?",
+            "answer": "Press the Start/Pause button to run the Calibration cycle."
+        },
+        {
+            "question91": "How long does the drum rotate during the Calibration cycle?",
+            "answer": "The drum will rotate for about 3 minutes"
+        },
+        {
+            "question92": "hat happens when the Calibration cycle is complete?",
+            "answer": "0 appears on the display and the washing machine will turn off automatically."
+        },
+        {
+            "question93": "What does the washing machine display when the Calibration cycle is complete?",
+            "answer": "The washing machine displays 0"
+        },
+        {
+            "question94": "What is the final step once the Calibration cycle is complete?",
+            "answer": "The washing machine is now ready for use"
+        },
+        {
+            "question95": "What is the function of the cycle selector on the control panel?",
+            "answer": "The cycle selector allows you to turn the dial to select a cycle, which automatically sets the corresponding default settings."
+        },
+        {
+            "question96": "What options can you adjust using the Temp button?",
+            "answer": "The Temp button allows you to adjust the water temperature for the wash cycle."
+        },
+        {
+            "question97": "What does the Rinse button do?",
+            "answer": "The Rinse button allows you to add additional rinse cycles to your selected program."
+        },
+        {
+            "question98": "How can you adjust the spin speed using the control panel?",
+            "answer": "Use the Spin button to select the desired spin speed or to select No Spin."
+        },
+        {
+            "question99": "What does the Soil button allow you to do?",
+            "answer": "The Soil button allows you to adjust the soil level settings for your wash cycle"
+        },
+        {
+            "question100": "What is indicated by the PM options on the control panel?",
+            "answer": "The PM options on the control panel are indicated by the availability of the option displayed on the cycle."
+        },
+        {
+            "question101": "What does the Delay End button do?",
+            "answer": "The Delay End button allows you to set a delay for the end of the wash cycle, ranging from 1 to 24 hours."
+        },
+        {
+            "question102": "What is the purpose of the Start/Pause button?",
+            "answer": "The Start/Pause button allows you to start or pause the selected wash cycle."
+        },
+        {
+            "question103": "What does the Power button do?",
+            "answer": "The Power button is used to turn the washing machine on or off."
+        },
+       
+        {
+            "question105": "what must we do if the washing maching does not start",
+            "answer": "Make sure the washing machine is plugged in. Ensure the door is properly closed. Check that the water taps are open. Press or tap Start/Pause to start the washing machine. Make sure Child Lock is not activated. Check the fuse or reset the circuit breaker. If the washing machine still does not start, wait briefly as there may be a pause or soak period in the cycle before it begins."
+        },
+        {
+            "question106": "water supply is insufficient or no water is supplied ",
+            "answer": "Make sure the water taps are open. Ensure that the water hoses are not clogged. Check that the water taps are not frozen. Verify that the washing machine is operating with sufficient water pressure. Confirm that the cold water tap and the hot water tap are properly connected. Clean the mesh filter as it may be clogged. Ensure that the cold water supply hose is firmly connected to the cold water tap; if it is connected to the hot water tap, the laundry may be deformed with some cycles."
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
